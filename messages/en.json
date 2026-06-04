@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "collections": "Collections",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact",
+    "search": "Search",
+    "cart": "Cart",
+    "account": "My Account",
+    "wishlist": "Wishlist"
+  },
+  "hero": {
+    "tagline": "Natural Beauty, Our Commitment",
+    "headline": "Raw Hair",
+    "subheadline": "100% Natural",
+    "description": "Premium natural hair wigs, for authentic and lasting beauty.",
+    "cta_primary": "Explore the collection",
+    "cta_secondary": "Learn more"
+  },
+  "trust": {
+    "quality": "Premium Quality",
+    "quality_desc": "100% natural hair, no chemical treatment",
+    "delivery": "Fast Delivery",
+    "delivery_desc": "Secure worldwide delivery",
+    "satisfaction": "Guaranteed Satisfaction",
+    "satisfaction_desc": "Customer service at your disposal",
+    "payment": "Secure Payment",
+    "payment_desc": "Stripe & PayPal accepted"
+  },
+  "collections": {
+    "title": "Our Collections",
+    "subtitle": "Discover hair excellence",
+    "view_all": "View all",
+    "shop_collection": "Explore"
+  },
+  "products": {
+    "bestsellers": "Best Sellers",
+    "new": "New Arrivals",
+    "featured": "Featured",
+    "add_to_cart": "Add to cart",
+    "add_to_wishlist": "Add to wishlist",
+    "in_stock": "In stock",
+    "out_of_stock": "Out of stock",
+    "view_product": "View product",
+    "from": "From",
+    "choose_variant": "Choose",
+    "length": "Length",
+    "density": "Density",
+    "color": "Color",
+    "texture": "Texture",
+    "lace": "Lace"
+  },
+  "cart": {
+    "title": "My Cart",
+    "empty": "Your cart is empty",
+    "empty_desc": "Discover our premium collections",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "total": "Total",
+    "checkout": "Checkout",
+    "continue_shopping": "Continue shopping",
+    "remove": "Remove",
+    "quantity": "Quantity"
+  },
+  "footer": {
+    "tagline": "Natural Beauty, Our Commitment",
+    "collections": "Collections",
+    "help": "Help",
+    "legal": "Legal",
+    "newsletter_title": "Stay informed",
+    "newsletter_desc": "New collections, exclusive offers and beauty tips.",
+    "newsletter_placeholder": "Your email address",
+    "newsletter_cta": "Subscribe",
+    "rights": "All rights reserved"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "close": "Close",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "new": "New",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort"
+  }
+}

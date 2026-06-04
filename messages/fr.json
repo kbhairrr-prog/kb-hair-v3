@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "collections": "Collections",
+    "products": "Produits",
+    "about": "À propos",
+    "contact": "Contact",
+    "search": "Rechercher",
+    "cart": "Panier",
+    "account": "Mon compte",
+    "wishlist": "Favoris"
+  },
+  "hero": {
+    "tagline": "La Beauté Naturelle, Notre Engagement",
+    "headline": "Raw Hair",
+    "subheadline": "100% Naturelle",
+    "description": "Des perruques premium en cheveux naturels, pour une beauté authentique et durable.",
+    "cta_primary": "Découvrir la collection",
+    "cta_secondary": "En savoir plus"
+  },
+  "trust": {
+    "quality": "Qualité Premium",
+    "quality_desc": "100% cheveux naturels, aucun traitement chimique",
+    "delivery": "Livraison Rapide",
+    "delivery_desc": "Livraison sécurisée partout dans le monde",
+    "satisfaction": "Satisfaction Garantie",
+    "satisfaction_desc": "Service client à votre écoute",
+    "payment": "Paiement Sécurisé",
+    "payment_desc": "Stripe & PayPal acceptés"
+  },
+  "collections": {
+    "title": "Nos Collections",
+    "subtitle": "Découvrez l'excellence capillaire",
+    "view_all": "Voir tout",
+    "shop_collection": "Découvrir"
+  },
+  "products": {
+    "bestsellers": "Meilleures Ventes",
+    "new": "Nouveautés",
+    "featured": "À la une",
+    "add_to_cart": "Ajouter au panier",
+    "add_to_wishlist": "Ajouter aux favoris",
+    "in_stock": "En stock",
+    "out_of_stock": "Rupture de stock",
+    "view_product": "Voir le produit",
+    "from": "À partir de",
+    "choose_variant": "Choisir",
+    "length": "Longueur",
+    "density": "Densité",
+    "color": "Couleur",
+    "texture": "Texture",
+    "lace": "Lace"
+  },
+  "cart": {
+    "title": "Mon Panier",
+    "empty": "Votre panier est vide",
+    "empty_desc": "Découvrez nos collections premium",
+    "subtotal": "Sous-total",
+    "shipping": "Livraison",
+    "total": "Total",
+    "checkout": "Commander",
+    "continue_shopping": "Continuer mes achats",
+    "remove": "Supprimer",
+    "quantity": "Quantité"
+  },
+  "footer": {
+    "tagline": "La Beauté Naturelle, Notre Engagement",
+    "collections": "Collections",
+    "help": "Aide",
+    "legal": "Légal",
+    "newsletter_title": "Restez informée",
+    "newsletter_desc": "Nouvelles collections, offres exclusives et conseils beauté.",
+    "newsletter_placeholder": "Votre adresse email",
+    "newsletter_cta": "S'abonner",
+    "rights": "Tous droits réservés"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "retry": "Réessayer",
+    "close": "Fermer",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "new": "Nouveau",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "sort": "Trier"
+  }
+}
