@@ -13,10 +13,10 @@ interface CollectionsSectionProps {
 
 // Collections de démo si aucune donnée Supabase
 const demoCollections: Collection[] = [
-  { id: '1', slug: 'perruques', position: 1, is_active: true, created_at: '', name: 'Perruques', image: { url: 'https://bcluxqemxhgjqevivyjx.supabase.co/storage/v1/object/public/products/preview.webp' } },
-  { id: '2', slug: 'lace-wigs', position: 2, is_active: true, created_at: '', name: 'Lace Wigs', image: { url: 'https://bcluxqemxhgjqevivyjx.supabase.co/storage/v1/object/public/products/preview%20(1).webp' } },
-  { id: '3', slug: 'braids', position: 3, is_active: true, created_at: '', name: 'Braids & Tresses', image: { url: 'https://bcluxqemxhgjqevivyjx.supabase.co/storage/v1/object/public/products/preview%20(5).webp' } },
-  { id: '4', slug: 'extensions', position: 4, is_active: true, created_at: '', name: 'Extensions', image: { url: 'https://bcluxqemxhgjqevivyjx.supabase.co/storage/v1/object/public/products/preview%20(11).webp' } },
+  { id: '1', slug: 'perruques', position: 1, is_active: true, created_at: '', name: 'Perruques', image: { id: 'i1', filename: 'preview.webp', type: 'image' as const, folder: '/', created_at: '', url: 'https://bcluxqemxhgjqevivyjx.supabase.co/storage/v1/object/public/products/preview.webp' } },
+  { id: '2', slug: 'lace-wigs', position: 2, is_active: true, created_at: '', name: 'Lace Wigs', image: { id: 'i2', filename: 'preview1.webp', type: 'image' as const, folder: '/', created_at: '', url: 'https://bcluxqemxhgjqevivyjx.supabase.co/storage/v1/object/public/products/preview%20(1).webp' } },
+  { id: '3', slug: 'braids', position: 3, is_active: true, created_at: '', name: 'Braids & Tresses', image: { id: 'i3', filename: 'preview5.webp', type: 'image' as const, folder: '/', created_at: '', url: 'https://bcluxqemxhgjqevivyjx.supabase.co/storage/v1/object/public/products/preview%20(5).webp' } },
+  { id: '4', slug: 'extensions', position: 4, is_active: true, created_at: '', name: 'Extensions', image: { id: 'i4', filename: 'preview11.webp', type: 'image' as const, folder: '/', created_at: '', url: 'https://bcluxqemxhgjqevivyjx.supabase.co/storage/v1/object/public/products/preview%20(11).webp' } },
 ];
 
 export function CollectionsSection({ locale, collections, title, subtitle }: CollectionsSectionProps) {
